@@ -792,5 +792,12 @@
     "description": "KriemRO",
     "hpAddress": "010DCE10",
     "nameAddress": "010DF5D8"
-  }
+  },
+  {
+  "name": "NY-MMO",
+  "description": "NY-MMO Ragnarok Online",
+  "site": "https://www.ny-mmo.com/",
+  "hpAddress": "0x017314C0",
+  "nameAddress": "0x01729DDC"
+}
 ]
